@@ -15,7 +15,7 @@ The map is named by the year and the state. For example, the STaPL map in Iowa i
 
 # Data Availability
 
-The STaPL maps will be available on Google Earth Engine (GEE). The 2022 STaPL maps are available now for review. To use the map, access the target map in GEE by: 
+The methodology paper on STaPL is under review. The STaPL maps will be available on Google Earth Engine (GEE) after paper publication. The 2022 STaPL maps are available now for review. To use the map, access the target map in GEE by: 
 
 ```javascript
 var STaPL_map = ee.Image('projects/lobell-lab/US_tillage_2024/STAPL_maps/' + image_name)
