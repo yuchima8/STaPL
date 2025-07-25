@@ -1,8 +1,8 @@
 # STaPL Tillage Map in the U.S.
 
-![alt text]([https://github.com/yuchima8/QDANN_Yield_Map/blob/76832033ddc067b7c29981288bfe6b899fe057cf/QDANN_yield_map.png](https://github.com/yuchima8/STaPL/blob/main/Fig4_STAPL_Tillage_Maps.png))
+![alt text]([https://github.com/yuchima8/STaPL/blob/main/Fig4_STAPL_Tillage_Maps.png])
 
-This is the homepage to host the STaPL tillage maps, which is generated based on a scale transfer framework Scale Transfer with Pseudo-Labeling (STaPL).
+This is the homepage to host the STaPL tillage maps, which are generated based on a scale transfer framework Scale Transfer with Pseudo-Labeling (STaPL).
 
 # Data Coverage
 
