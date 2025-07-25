@@ -1,6 +1,6 @@
 # STaPL Tillage Map in the U.S.
 
-![alt text]([https://github.com/yuchima8/STaPL/blob/main/Fig4_STAPL_Tillage_Maps.png])
+![alt text](https://github.com/yuchima8/STaPL/blob/main/Fig4_STAPL_Tillage_Maps.png)
 
 This is the homepage to host the STaPL tillage maps, which are generated based on a scale transfer framework Scale Transfer with Pseudo-Labeling (STaPL).
 
