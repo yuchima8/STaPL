@@ -33,7 +33,7 @@ Will be available after paper publication.
 
 # Paper
 
-
+The methodology paper on STaPL is under review. 
 
 # License
 
