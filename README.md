@@ -21,7 +21,7 @@ The methodology paper on STaPL is under review. The STaPL maps will be available
 var STaPL_map = ee.Image('projects/lobell-lab/US_tillage_2024/STAPL_maps/' + image_name)
 ```
 
-For example, if you want to use the corn and soybean yield map in Iowa (IA) in 2022, the code should be like:
+For example, if you want to use the tillage map in Iowa (IA) in 2022, the code should be like:
 
 ```javascript
 var STaPL_map_IA_2022 = ee.Image('projects/lobell-lab/US_tillage_2024/STAPL_maps/IA_2022_STAPL')
@@ -37,7 +37,7 @@ The methodology paper on STaPL is under review.
 
 # License
 
-STaPL Yield Maps will follow [CC-BY-NC-SA 4.0](https://github.com/yuchima8/QDANN_Yield_Map/blob/main/CC-BY-NC-SA-4.0.txt). Thus, those compounds are freely available for academic purposes or individual research, but restricted for commercial use.
+STaPL Tillage Maps will follow [CC-BY-NC-SA 4.0](https://github.com/yuchima8/QDANN_Yield_Map/blob/main/CC-BY-NC-SA-4.0.txt). Thus, those compounds are freely available for academic purposes or individual research, but restricted for commercial use.
 
 # Contact
 
