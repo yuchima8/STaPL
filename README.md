@@ -37,7 +37,7 @@ The methodology paper on STaPL is under review.
 
 # License
 
-STaPL Tillage Maps will follow [CC-BY-NC-SA 4.0](https://github.com/yuchima8/STaPL/blob/main/CC-BY-NC-SA-4.0 (1).txt). Thus, those compounds are freely available for academic purposes or individual research, but restricted for commercial use.
+STaPL Tillage Maps will follow [CC-BY-NC-SA 4.0](https://github.com/yuchima8/STaPL/blob/main/CC-BY-NC-SA-4.0.txt). Thus, those compounds are freely available for academic purposes or individual research, but restricted for commercial use.
 
 # Contact
 
