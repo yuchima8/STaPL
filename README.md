@@ -41,6 +41,8 @@ Please refer to the STaPL paper.
 
 The STaPL paper is available in Remote Sensing of Environment (https://authors.elsevier.com/a/1n93y7qzTAsOD).
 
+We have another research that uses the same scale-transfer idea for 30-m crop yield mapping, which is also available in Remote Sensing of Environment (https://www.sciencedirect.com/science/article/abs/pii/S003442572400453X).
+
 # License
 
 STaPL Tillage Maps will follow [CC-BY-NC-SA 4.0](https://github.com/yuchima8/STaPL/blob/main/CC-BY-NC-SA-4.0.txt). Thus, those compounds are freely available for academic purposes or individual research, but restricted for commercial use.
@@ -54,5 +56,8 @@ Please contact us by sending an email to Dr. Yuchi Ma (yuchima@stanford.edu) and
 If you find it useful, please star this project and cite our papers:
 
 [1] Ma, Y.*, Shen, Y., Swatantran, A., Kelly, C., Lobell, D.B., 2026. STaPL: Scale Transfer with Pseudo-Labelling for satellite-based mapping of agricultural practices. Remote Sensing of Environment 343, 115500.
+
+[2] Ma, Y.*, Liang, S.Z., Myers, D.B., Swatantran, A. and Lobell, D.B.*, 2024. Subfield-level crop yield mapping without ground truth data: A scale transfer framework. Remote Sensing of Environment, 315, p.114427.
+
 
 
